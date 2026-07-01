@@ -35,50 +35,50 @@ Then removes or simplifies it.
 
 Each module contains 12 mind statements, forming a complete 144-statement system.
 
-| Module | Theme             | Statements |
-| ------ | ----------------- | ---------: |
-| 1      | Clear the Path    |         12 |
-| 2      | Self-Awareness    |         12 |
-| 3      | Responsibility    |         12 |
-| 4      | Focus & Attention |         12 |
-| 5      | Courage           |         12 |
-| 6      | Discipline        |         12 |
-| 7      | Gratitude         |         12 |
-| 8      | Relationships     |         12 |
-| 9      | Service           |         12 |
-| 10     | Abundance         |         12 |
-| 11     | Purpose           |         12 |
-| 12     | Legacy            |         12 |
+| Module | Theme | Statements |
+| ------ | ----- | ---------: |
+| 01 | [Clear the Path](#01-clear-the-path) | 12 |
+| 02 | [Self-Awareness](#02-self-awareness) | 12 |
+| 03 | [Responsibility](#03-responsibility) | 12 |
+| 04 | [Focus & Attention](#04-focus--attention) | 12 |
+| 05 | [Courage](#05-courage) | 12 |
+| 06 | [Discipline](#06-discipline) | 12 |
+| 07 | [Gratitude](#07-gratitude) | 12 |
+| 08 | [Relationships](#08-relationships) | 12 |
+| 09 | [Service](#09-service) | 12 |
+| 10 | [Abundance](#10-abundance) | 12 |
+| 11 | [Purpose](#11-purpose) | 12 |
+| 12 | [Legacy](#12-legacy) | 12 |
 
 ---
 
 ## Module Descriptions
 
-### 1. Clear the Path
+### 01. Clear the Path
 Removing unnecessary complexity and identifying the next clear action.
 
-### 2. Self-Awareness
+### 02. Self-Awareness
 Understanding internal states, reactions, and patterns without distortion.
 
-### 3. Responsibility
+### 03. Responsibility
 Owning outcomes, decisions, and direction without external deflection.
 
-### 4. Focus & Attention
+### 04. Focus & Attention
 Training attention to remain on one meaningful signal at a time.
 
-### 5. Courage
+### 05. Courage
 Acting despite uncertainty, discomfort, or resistance.
 
-### 6. Discipline
+### 06. Discipline
 Consistent execution independent of motivation or emotional state.
 
-### 7. Gratitude
+### 07. Gratitude
 Stabilizing perception through recognition of value and grounding.
 
-### 8. Relationships
+### 08. Relationships
 Reducing friction and increasing clarity in communication and boundaries.
 
-### 9. Service
+### 09. Service
 Acting in ways that contribute value beyond the self.
 
 ### 10. Abundance
@@ -94,11 +94,11 @@ Considering long-term impact, continuity, and what is left behind.
 
 ## System Structure
 
-Each statement inside a module follows a simple three-layer format:
+Each statement (found in module files) follows:
 
-- **Mind Statement** → core principle  
-- **Reflection** → awareness question  
-- **Action** → immediate executable step  
+- Mind Statement  
+- Reflection  
+- Action  
 
 ---
 
